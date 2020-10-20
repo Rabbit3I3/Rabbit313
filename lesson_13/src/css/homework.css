@@ -1,0 +1,56 @@
+.homwork{
+	width: 570px;
+	height: 570px;
+	background-color: #ebf4f4;
+}
+.main{
+	height: 370px;
+	width: 320px;
+	background-color: #fff;
+	margin-top: 100px;
+	margin-left: 125px;
+	padding: 0;
+}
+.heading{
+	background-color: #01b3b3;
+	width: 150px;
+	height: 25px;
+	margin-left: 30px;
+	margin-top: -5px;
+	padding: 0;
+}
+.CREATEANACCOUNT{
+font-size: 12.5PX;
+color: #fff;
+margin-top: -31px;
+margin-left: 38px;
+padding: 0;
+}
+.line{
+	height: 210px;
+	width: 260px;
+	margin-left: 30px;
+	margin-top: 30px;
+	padding: 0;
+}
+.line input{
+	width: 260px;
+	height: 30px;
+	background-color:  #ebf4f4;
+	border: none;
+}
+.line span{
+	color: #01b3b3;
+}
+.line p{
+	margin-bottom: 15px;
+}
+.btn{
+width: 260px;
+height: 45px;
+color: #fff;
+background-color: #01b3b3;
+margin-top: 35px;
+border:none;
+}
+
